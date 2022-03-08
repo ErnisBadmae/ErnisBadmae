@@ -20,16 +20,19 @@ Interested JS, React/Redux/Node JS
 
 <img align="left" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
 
+
+
 <br />
 
 😶‍🌫️  I am currently:
+
+<br />
 <img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
 
 
 <br />
-Connect with me:
 
-[telegram]: https://t.me/ernis_badmaev/
+
 
 
 

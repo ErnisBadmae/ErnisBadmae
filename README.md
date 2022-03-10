@@ -1,7 +1,9 @@
-#Hi. there, I'm Ernis 😀✋
-Fullstack dev.
+<h1 align="center">#Hi. there, I'm Ernis 😀
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">🚀 FullStack JS Developer</h3>
+<div align="center">
 
-Interested JS, React/Redux/Node JS
+<h5>Interested JS, React/Redux/Node JS<h5/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ErnisBadmae&count_private=true&show_icons=true&theme=dark"/>
 
@@ -21,18 +23,17 @@ Interested JS, React/Redux/Node JS
 <img align="left" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
 
 
-
-<br />
-
-😶‍🌫️  I am currently:
-
 <br />
 <img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
 
 
 <br />
 
-
+<h2 align="center">Let's get connected 🤝</h2>
+<div align="center">
+  <a href='https://telegram.me/Ernis_badmaev' target="_blank"><img src='/IMG/icons8-telegram-app-48.png'></img></a>
+  <a href='https://instagram.com/mugco_made' target="_blank"><img src='/IMG/icons8-instagram-48.png'></img></a>
+</div>
 
 
 

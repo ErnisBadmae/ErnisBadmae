@@ -27,10 +27,14 @@
 <img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
 
 
-<br />
 
+<br />
 <h2 align="center">Let's get connected 🤝</h2>
+
+
 <div align="center">
+
+
   <a href='https://telegram.me/Ernis_badmaev' target="_blank"><img src='/IMG/icons8-telegram-app-48.png'></img></a>
   <a href='https://instagram.com/mugco_made' target="_blank"><img src='/IMG/icons8-instagram-48.png'></img></a>
 </div>

@@ -3,7 +3,12 @@
 <h3 align="center">🚀 FullStack JS Developer</h3>
 <div align="center">
 
-<h5>Interested JS, React/Redux/Node JS<h5/>
+<h5>Interested JS,TS
+ <br/>
+ React(Redux, Mobx)/Angular 
+ <br/>
+ Node JS with Express, Nest
+ <h5/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ErnisBadmae&count_private=true&show_icons=true&theme=dark"/>
 

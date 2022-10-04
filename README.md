@@ -5,7 +5,7 @@
 
 <h5>Interested JS,TS
  <br/>
- React(Redux, Mobx)/Angular 
+ React
  <br/>
  <h5/>
 

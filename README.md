@@ -11,7 +11,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ErnisBadmae&count_private=true&show_icons=true&theme=dark"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnisBadmae&langs_count=8)](https://github.com/ErnisBadmae/github-readme-stats)"/>
+
 
 
 

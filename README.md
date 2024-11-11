@@ -9,7 +9,6 @@
  <br/>
  <h5/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ErnisBadmae&count_private=true&show_icons=true&theme=dark"/>
 
 
 

@@ -1,5 +1,5 @@
-<h1 align="center">#Hi. there, I'm Ernis 
- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>😀</h1>
+<h1 align="center">#
+
 <h3 align="center">🚀 Frontend Developer</h3>
 <div align="center">
 
